@@ -1,0 +1,159 @@
+TiPhone_BeaconTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/Info.plist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/Info.plist
+cCompileC build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests normal i386
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/Info.plist
+t1411643386
+s554
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests
+t1411650827
+s15976
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests.LinkFileList
+c000000005425659E00000000000000A1
+t1411736990
+s161
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests.o
+t1411643386
+s14536
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/Info.plist
+c000000005423F6AB00000000000002E9
+t1411643051
+s745
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m
+c000000005423F6AB000000000000036B
+t1411643051
+s875
+
+CBuild AST from /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese1b20a1e9dd5b941^46230b1e9dd5b941^---0#1#1#--18"Check dependencies36"674D3F98-0F5C-4065-88DE-D17A3EE656C8-
+
+CCompileC build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CGenerateDSYMFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest.dSYM /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests
+r0
+
+CLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests normal i386
+s433429790.044468
+e433429790.078030
+r0
+xLd
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests
+xnormal
+xi386
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests.LinkFileList
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_Beacon.app/iPhone_Beacon
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/bundle1.o
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+oUndefined symbols for architecture i386:
+o  "_OBJC_EHTYPE_$__XCTestCaseInterruptionException", referenced from:
+o      GCC_except_table2 in iPhone_BeaconTests.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests87"Ld build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests normal i386d26f0b1e9dd5b941^61e31a1e9dd5b941^-285"Undefined symbols for architecture i386:  "_OBJC_EHTYPE_$__XCTestCaseInterruptionException", referenced from:      GCC_except_table2 in iPhone_BeaconTests.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@67""_OBJC_EHTYPE_$__XCTestCaseInterruptionException", referenced from:-433429790#41#70#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@41"GCC_except_table2 in iPhone_BeaconTests.o-433429790#111#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-433429790#159#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-433429790#205#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1893"Ld build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests normal i386    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export IPHONEOS_DEPLOYMENT_TARGET=8.0    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator -F/Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode\ 2.app/Contents/Developer/Library/Frameworks -filelist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests.LinkFileList -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @loader_path/Frameworks -bundle_loader /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_Beacon.app/iPhone_Beacon -Xlinker -objc_abi_version -Xlinker 2 -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=8.0 -Xlinker -dependency_info -Xlinker /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphonesimulator/iPhone_BeaconTests.build/Objects-normal/i386/iPhone_BeaconTests_dependency_info.dat -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/iPhone_BeaconTests36"59D29BA4-A5FD-47AC-B674-14ABFD0CD439-
+b590AB733-8048-4E88-A0E2-2CB61CEC52A9
+
+CProcessInfoPlistFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest/Info.plist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/Info.plist
+r0
+
+CTouch /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphonesimulator/iPhone_BeaconTests.xctest
+r0
+

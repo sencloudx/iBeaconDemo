@@ -1,0 +1,449 @@
+TiPhone_Beacon
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/iPhone_Beacon.app/ResourceRules.plist
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/ViewController.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/AppDelegate.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/main.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon normal armv7
+cLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon normal armv7s
+cLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon normal arm64
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000533B9F800000000000000096
+t1396416384
+s150
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000533B9F80000000000000036B
+t1396416384
+s875
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9F82000000000000019E
+t1396416386
+s414
+
+N/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/ResourceRules.plist
+t1411647274
+s168
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o
+t1411650780
+s66408
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o
+t1411650780
+s93580
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon
+t2
+s0
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon.LinkFileList
+c00000000542414DA00000000000001A9
+t1411650778
+s425
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o
+t1411650780
+s4224
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/AppDelegate.o
+t1411647277
+s62820
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/ViewController.o
+t1411649502
+s88984
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon
+t2
+s0
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon.LinkFileList
+c00000000542414DA00000000000001A9
+t1411650778
+s425
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/main.o
+t1411647277
+s3744
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o
+t1411650780
+s61744
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o
+t1411650780
+s87936
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon
+t2
+s0
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon.LinkFileList
+c00000000542414DA00000000000001AC
+t1411650778
+s428
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o
+t1411650780
+s3816
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m
+c000000005423F6AB00000000000007ED
+t1411643051
+s2029
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m
+c0000000054240FCE000000000000186D
+t1411649486
+s6253
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m
+c000000005423F6AB000000000000014C
+t1411643051
+s332
+
+CBuild AST from /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m
+r0
+
+CBuild AST from /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m
+r0
+
+CBuild AST from /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesace1aa5a4cd4b941^8c83bb5a4cd4b941^-276"iOS deployment target '8.0' for architecture 'arm64' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.iOS deployment target '8.0' for architecture 'arm64' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.2(21%IDEActivityLogMessage2@137"IOS deployment target '8.0' for architecture 'arm64' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.-433343578#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@137"IOS deployment target '8.0' for architecture 'arm64' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.-433343578#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"CD7E7550-7D9C-4525-80E7-DF769A601224-
+
+CCodeSign /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app
+r0
+
+CCompileAssetCatalog /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/Images.xcassets
+r0
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433343580.317613
+e433343580.415266
+r1
+xCompileC
+xbuild/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m201"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o iPhone_Beacon/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler446b515c4cd4b941^94506a5c4cd4b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m0000000000000000^3443"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o iPhone_Beacon/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luyan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=8.0 -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-generated-files.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-own-target-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-all-target-headers.hmap -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-project-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources/arm64 -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -MMD -MT dependencies -MF /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.dia -c /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o36"E5BD5AFA-EE3E-41D4-ADB6-61C8C56A23B9-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433343578.735432
+e433343580.408285
+r1
+xCompileC
+xbuild/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m207"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o iPhone_Beacon/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd95dbc5a4cd4b941^e485685c4cd4b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m0000000000000000^3461"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o iPhone_Beacon/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luyan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=8.0 -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-generated-files.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-own-target-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-all-target-headers.hmap -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-project-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources/arm64 -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -MMD -MT dependencies -MF /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.dia -c /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o36"08A64BB3-EE77-4AF1-B764-3C1A2516AE87-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433343580.360225
+e433343580.446106
+r1
+xCompileC
+xbuild/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m187"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o iPhone_Beacon/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler26545c5c4cd4b941^3334725c4cd4b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m0000000000000000^3401"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o iPhone_Beacon/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luyan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=8.0 -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-generated-files.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-own-target-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-all-target-headers.hmap -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-project-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources/arm64 -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -MMD -MT dependencies -MF /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.dia -c /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o36"E5D88C4F-C415-4ACA-A4F7-4ED34EFE6D50-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/AppDelegate.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/ViewController.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/main.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433343578.734309
+e433343580.317035
+r1
+xCompileC
+xbuild/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m203"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o iPhone_Beacon/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere338bc5a4cd4b941^a839515c4cd4b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m0000000000000000^3450"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o iPhone_Beacon/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luyan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=8.0 -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-generated-files.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-own-target-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-all-target-headers.hmap -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-project-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources/armv7s -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -MMD -MT dependencies -MF /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.m -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o36"78EA4108-0B75-4CD2-837E-640ECB98ECA1-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433343578.734014
+e433343580.418908
+r1
+xCompileC
+xbuild/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m209"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o iPhone_Beacon/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6f11bc5a4cd4b941^f33d6b5c4cd4b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m0000000000000000^3468"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o iPhone_Beacon/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luyan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=8.0 -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-generated-files.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-own-target-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-all-target-headers.hmap -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-project-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources/armv7s -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -MMD -MT dependencies -MF /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.dia -c /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/ViewController.m -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o36"FD3CB2D9-E00E-4E65-93EE-88FC50DF7C9C-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433343578.734612
+e433343580.359898
+r1
+xCompileC
+xbuild/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m189"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o iPhone_Beacon/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilera437bc5a4cd4b941^a7235c5c4cd4b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m0000000000000000^3408"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o iPhone_Beacon/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luyan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=8.0 -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-generated-files.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-own-target-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-all-target-headers.hmap -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon-project-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources/armv7s -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/DerivedSources -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -MMD -MT dependencies -MF /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.dia -c /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/main.m -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o36"037E4E92-6364-4D34-8B47-10B5012E7A20-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CCompileStoryboard /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/Base.lproj/Main.storyboard
+r0
+
+CCompileXIB /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/Base.lproj/LaunchScreen.xib
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/alipay.png iPhone_Beacon/alipay.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/bottom_logo.png iPhone_Beacon/bottom_logo.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/delete.png iPhone_Beacon/delete.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/grey_background.png iPhone_Beacon/grey_background.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/home_icon.png iPhone_Beacon/home_icon.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/minus.png iPhone_Beacon/minus.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/plus.png iPhone_Beacon/plus.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/score.png iPhone_Beacon/score.png
+r0
+
+CCopyPNGFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/wechatpay.png iPhone_Beacon/wechatpay.png
+r0
+
+CCpResource /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/iPhone_Beacon.app/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/iPhone_Beacon normal armv7\ armv7s\ arm64
+r0
+
+CGenerateDSYMFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app.dSYM /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/iPhone_Beacon
+r0
+
+CLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon normal arm64
+s433343580.447720
+e433343580.823596
+r1
+xLd
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon
+xnormal
+xarm64
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon.LinkFileList
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/ViewController.o
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/AppDelegate.o
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/main.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Link /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon111"Ld build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon normal arm64d9b0725c4cd4b941^6ad9d25c4cd4b941^---0#0#1#--1400"Ld build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon normal arm64    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export IPHONEOS_DEPLOYMENT_TARGET=8.0    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -filelist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon.LinkFileList -Xlinker -rpath -Xlinker @executable_path/Frameworks -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=8.0 -Xlinker -dependency_info -Xlinker /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon_dependency_info.dat -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/arm64/iPhone_Beacon36"8ED9B002-AF1F-4DEB-8D93-F21CD6655320-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon normal armv7
+s433343580.446775
+e433343580.623148
+r0
+xLd
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon
+xnormal
+xarmv7
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon.LinkFileList
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/ViewController.o
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/AppDelegate.o
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/main.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+old: framework not found Metal for architecture armv7
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Link /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon111"Ld build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon normal armv7ef71725c4cd4b941^23849f5c4cd4b941^-133"ld: framework not found Metal for architecture armv7clang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@48"Framework not found Metal for architecture armv7-433343580#0#53#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-433343580#53#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1400"Ld build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon normal armv7    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export IPHONEOS_DEPLOYMENT_TARGET=8.0    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -filelist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon.LinkFileList -Xlinker -rpath -Xlinker @executable_path/Frameworks -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=8.0 -Xlinker -dependency_info -Xlinker /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon_dependency_info.dat -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7/iPhone_Beacon36"258E706A-7699-4F03-820D-27C1A3D78F78-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon normal armv7s
+s433343580.447205
+e433343580.823646
+r1
+xLd
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon
+xnormal
+xarmv7s
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon.LinkFileList
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/ViewController.o
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/main.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon113"Ld build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon normal armv7sdb89725c4cd4b941^f3e4d25c4cd4b941^---0#0#1#--1406"Ld build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon normal armv7s    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export IPHONEOS_DEPLOYMENT_TARGET=8.0    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -filelist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon.LinkFileList -Xlinker -rpath -Xlinker @executable_path/Frameworks -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=8.0 -Xlinker -dependency_info -Xlinker /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon_dependency_info.dat -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/Objects-normal/armv7s/iPhone_Beacon36"08DE5E39-6D36-4D79-BDAD-15A60EB16516-
+b2D6DD73B-276E-497C-B706-4EDFDA6B951E
+
+CProcessInfoPlistFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/Info.plist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_Beacon/Info.plist
+r0
+
+CProcessProductPackaging /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_Beacon.build/iPhone_Beacon.xcent
+r0
+
+CProcessProductPackaging /Users/luyan/Library/MobileDevice/Provisioning\ Profiles/035CDC0B-CB54-4B74-84B3-2DB421C1D9FE.mobileprovision /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app/embedded.mobileprovision
+r0
+
+CTouch /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_Beacon.app
+r0
+

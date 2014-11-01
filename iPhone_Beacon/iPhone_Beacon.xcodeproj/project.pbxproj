@@ -1,0 +1,491 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		39BDAF4119D42E2B009C165D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BDAF4019D42E2B009C165D /* main.m */; };
+		39BDAF4419D42E2B009C165D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BDAF4319D42E2B009C165D /* AppDelegate.m */; };
+		39BDAF4719D42E2B009C165D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BDAF4619D42E2B009C165D /* ViewController.m */; };
+		39BDAF4A19D42E2B009C165D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF4819D42E2B009C165D /* Main.storyboard */; };
+		39BDAF4C19D42E2B009C165D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF4B19D42E2B009C165D /* Images.xcassets */; };
+		39BDAF4F19D42E2B009C165D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF4D19D42E2B009C165D /* LaunchScreen.xib */; };
+		39BDAF5B19D42E2B009C165D /* iPhone_BeaconTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BDAF5A19D42E2B009C165D /* iPhone_BeaconTests.m */; };
+		39BDAF6819D42EAC009C165D /* delete.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF6619D42EAC009C165D /* delete.png */; };
+		39BDAF6919D42EAC009C165D /* grey_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF6719D42EAC009C165D /* grey_background.png */; };
+		39BDAF6C19D42EB6009C165D /* bottom_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF6A19D42EB6009C165D /* bottom_logo.png */; };
+		39BDAF6D19D42EB6009C165D /* home_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF6B19D42EB6009C165D /* home_icon.png */; };
+		39BDAF6F19D4321F009C165D /* score.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF6E19D4321F009C165D /* score.png */; };
+		39BDAF7119D43230009C165D /* minus.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF7019D43230009C165D /* minus.png */; };
+		39BDAF7519D43245009C165D /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF7219D43245009C165D /* plus.png */; };
+		39BDAF7619D43245009C165D /* wechatpay.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF7319D43245009C165D /* wechatpay.png */; };
+		39BDAF7719D43245009C165D /* alipay.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF7419D43245009C165D /* alipay.png */; };
+		39BDAF7E19D44E7C009C165D /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF7D19D44E7C009C165D /* Icon.png */; };
+		39BDAF8019D59BB0009C165D /* Prepare_Checkout.png in Resources */ = {isa = PBXBuildFile; fileRef = 39BDAF7F19D59BB0009C165D /* Prepare_Checkout.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		39BDAF5519D42E2B009C165D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 39BDAF3319D42E2B009C165D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 39BDAF3A19D42E2B009C165D;
+			remoteInfo = iPhone_Beacon;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		39BDAF3B19D42E2B009C165D /* iPhone_Beacon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPhone_Beacon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		39BDAF3F19D42E2B009C165D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39BDAF4019D42E2B009C165D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		39BDAF4219D42E2B009C165D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		39BDAF4319D42E2B009C165D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		39BDAF4519D42E2B009C165D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		39BDAF4619D42E2B009C165D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		39BDAF4919D42E2B009C165D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		39BDAF4B19D42E2B009C165D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		39BDAF4E19D42E2B009C165D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		39BDAF5419D42E2B009C165D /* iPhone_BeaconTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPhone_BeaconTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		39BDAF5919D42E2B009C165D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39BDAF5A19D42E2B009C165D /* iPhone_BeaconTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPhone_BeaconTests.m; sourceTree = "<group>"; };
+		39BDAF6619D42EAC009C165D /* delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = delete.png; sourceTree = "<group>"; };
+		39BDAF6719D42EAC009C165D /* grey_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grey_background.png; sourceTree = "<group>"; };
+		39BDAF6A19D42EB6009C165D /* bottom_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottom_logo.png; sourceTree = "<group>"; };
+		39BDAF6B19D42EB6009C165D /* home_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home_icon.png; sourceTree = "<group>"; };
+		39BDAF6E19D4321F009C165D /* score.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = score.png; sourceTree = "<group>"; };
+		39BDAF7019D43230009C165D /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
+		39BDAF7219D43245009C165D /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		39BDAF7319D43245009C165D /* wechatpay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wechatpay.png; sourceTree = "<group>"; };
+		39BDAF7419D43245009C165D /* alipay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alipay.png; sourceTree = "<group>"; };
+		39BDAF7D19D44E7C009C165D /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		39BDAF7F19D59BB0009C165D /* Prepare_Checkout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Prepare_Checkout.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		39BDAF3819D42E2B009C165D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		39BDAF5119D42E2B009C165D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		39BDAF3219D42E2B009C165D = {
+			isa = PBXGroup;
+			children = (
+				39BDAF3D19D42E2B009C165D /* iPhone_Beacon */,
+				39BDAF5719D42E2B009C165D /* iPhone_BeaconTests */,
+				39BDAF3C19D42E2B009C165D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		39BDAF3C19D42E2B009C165D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				39BDAF3B19D42E2B009C165D /* iPhone_Beacon.app */,
+				39BDAF5419D42E2B009C165D /* iPhone_BeaconTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		39BDAF3D19D42E2B009C165D /* iPhone_Beacon */ = {
+			isa = PBXGroup;
+			children = (
+				39BDAF6419D42E7E009C165D /* resource */,
+				39BDAF4219D42E2B009C165D /* AppDelegate.h */,
+				39BDAF4319D42E2B009C165D /* AppDelegate.m */,
+				39BDAF4519D42E2B009C165D /* ViewController.h */,
+				39BDAF4619D42E2B009C165D /* ViewController.m */,
+				39BDAF4819D42E2B009C165D /* Main.storyboard */,
+				39BDAF4B19D42E2B009C165D /* Images.xcassets */,
+				39BDAF4D19D42E2B009C165D /* LaunchScreen.xib */,
+				39BDAF3E19D42E2B009C165D /* Supporting Files */,
+			);
+			path = iPhone_Beacon;
+			sourceTree = "<group>";
+		};
+		39BDAF3E19D42E2B009C165D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				39BDAF3F19D42E2B009C165D /* Info.plist */,
+				39BDAF4019D42E2B009C165D /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		39BDAF5719D42E2B009C165D /* iPhone_BeaconTests */ = {
+			isa = PBXGroup;
+			children = (
+				39BDAF5A19D42E2B009C165D /* iPhone_BeaconTests.m */,
+				39BDAF5819D42E2B009C165D /* Supporting Files */,
+			);
+			path = iPhone_BeaconTests;
+			sourceTree = "<group>";
+		};
+		39BDAF5819D42E2B009C165D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				39BDAF5919D42E2B009C165D /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		39BDAF6419D42E7E009C165D /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				39BDAF6519D42E88009C165D /* image */,
+			);
+			name = resource;
+			sourceTree = "<group>";
+		};
+		39BDAF6519D42E88009C165D /* image */ = {
+			isa = PBXGroup;
+			children = (
+				39BDAF7F19D59BB0009C165D /* Prepare_Checkout.png */,
+				39BDAF7D19D44E7C009C165D /* Icon.png */,
+				39BDAF7219D43245009C165D /* plus.png */,
+				39BDAF7319D43245009C165D /* wechatpay.png */,
+				39BDAF7419D43245009C165D /* alipay.png */,
+				39BDAF7019D43230009C165D /* minus.png */,
+				39BDAF6E19D4321F009C165D /* score.png */,
+				39BDAF6A19D42EB6009C165D /* bottom_logo.png */,
+				39BDAF6B19D42EB6009C165D /* home_icon.png */,
+				39BDAF6619D42EAC009C165D /* delete.png */,
+				39BDAF6719D42EAC009C165D /* grey_background.png */,
+			);
+			name = image;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		39BDAF3A19D42E2B009C165D /* iPhone_Beacon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 39BDAF5E19D42E2B009C165D /* Build configuration list for PBXNativeTarget "iPhone_Beacon" */;
+			buildPhases = (
+				39BDAF3719D42E2B009C165D /* Sources */,
+				39BDAF3819D42E2B009C165D /* Frameworks */,
+				39BDAF3919D42E2B009C165D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iPhone_Beacon;
+			productName = iPhone_Beacon;
+			productReference = 39BDAF3B19D42E2B009C165D /* iPhone_Beacon.app */;
+			productType = "com.apple.product-type.application";
+		};
+		39BDAF5319D42E2B009C165D /* iPhone_BeaconTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 39BDAF6119D42E2B009C165D /* Build configuration list for PBXNativeTarget "iPhone_BeaconTests" */;
+			buildPhases = (
+				39BDAF5019D42E2B009C165D /* Sources */,
+				39BDAF5119D42E2B009C165D /* Frameworks */,
+				39BDAF5219D42E2B009C165D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				39BDAF5619D42E2B009C165D /* PBXTargetDependency */,
+			);
+			name = iPhone_BeaconTests;
+			productName = iPhone_BeaconTests;
+			productReference = 39BDAF5419D42E2B009C165D /* iPhone_BeaconTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		39BDAF3319D42E2B009C165D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = _Luyan;
+				TargetAttributes = {
+					39BDAF3A19D42E2B009C165D = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+					39BDAF5319D42E2B009C165D = {
+						CreatedOnToolsVersion = 6.0.1;
+						TestTargetID = 39BDAF3A19D42E2B009C165D;
+					};
+				};
+			};
+			buildConfigurationList = 39BDAF3619D42E2B009C165D /* Build configuration list for PBXProject "iPhone_Beacon" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 39BDAF3219D42E2B009C165D;
+			productRefGroup = 39BDAF3C19D42E2B009C165D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				39BDAF3A19D42E2B009C165D /* iPhone_Beacon */,
+				39BDAF5319D42E2B009C165D /* iPhone_BeaconTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		39BDAF3919D42E2B009C165D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39BDAF7619D43245009C165D /* wechatpay.png in Resources */,
+				39BDAF7E19D44E7C009C165D /* Icon.png in Resources */,
+				39BDAF7119D43230009C165D /* minus.png in Resources */,
+				39BDAF8019D59BB0009C165D /* Prepare_Checkout.png in Resources */,
+				39BDAF6819D42EAC009C165D /* delete.png in Resources */,
+				39BDAF6D19D42EB6009C165D /* home_icon.png in Resources */,
+				39BDAF7519D43245009C165D /* plus.png in Resources */,
+				39BDAF4A19D42E2B009C165D /* Main.storyboard in Resources */,
+				39BDAF4F19D42E2B009C165D /* LaunchScreen.xib in Resources */,
+				39BDAF6C19D42EB6009C165D /* bottom_logo.png in Resources */,
+				39BDAF7719D43245009C165D /* alipay.png in Resources */,
+				39BDAF6F19D4321F009C165D /* score.png in Resources */,
+				39BDAF6919D42EAC009C165D /* grey_background.png in Resources */,
+				39BDAF4C19D42E2B009C165D /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		39BDAF5219D42E2B009C165D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		39BDAF3719D42E2B009C165D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39BDAF4719D42E2B009C165D /* ViewController.m in Sources */,
+				39BDAF4419D42E2B009C165D /* AppDelegate.m in Sources */,
+				39BDAF4119D42E2B009C165D /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		39BDAF5019D42E2B009C165D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39BDAF5B19D42E2B009C165D /* iPhone_BeaconTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		39BDAF5619D42E2B009C165D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 39BDAF3A19D42E2B009C165D /* iPhone_Beacon */;
+			targetProxy = 39BDAF5519D42E2B009C165D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		39BDAF4819D42E2B009C165D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				39BDAF4919D42E2B009C165D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		39BDAF4D19D42E2B009C165D /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				39BDAF4E19D42E2B009C165D /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		39BDAF5C19D42E2B009C165D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		39BDAF5D19D42E2B009C165D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		39BDAF5F19D42E2B009C165D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = iPhone_Beacon/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		39BDAF6019D42E2B009C165D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = iPhone_Beacon/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		39BDAF6219D42E2B009C165D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = iPhone_BeaconTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iPhone_Beacon.app/iPhone_Beacon";
+			};
+			name = Debug;
+		};
+		39BDAF6319D42E2B009C165D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = iPhone_BeaconTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iPhone_Beacon.app/iPhone_Beacon";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		39BDAF3619D42E2B009C165D /* Build configuration list for PBXProject "iPhone_Beacon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39BDAF5C19D42E2B009C165D /* Debug */,
+				39BDAF5D19D42E2B009C165D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		39BDAF5E19D42E2B009C165D /* Build configuration list for PBXNativeTarget "iPhone_Beacon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39BDAF5F19D42E2B009C165D /* Debug */,
+				39BDAF6019D42E2B009C165D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		39BDAF6119D42E2B009C165D /* Build configuration list for PBXNativeTarget "iPhone_BeaconTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39BDAF6219D42E2B009C165D /* Debug */,
+				39BDAF6319D42E2B009C165D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 39BDAF3319D42E2B009C165D /* Project object */;
+}

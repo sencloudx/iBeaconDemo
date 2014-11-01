@@ -1,0 +1,78 @@
+TiPhone_BeaconTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_BeaconTests.xctest/Info.plist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/Info.plist
+cCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000533B9F80000000000000036B
+t1396416384
+s875
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9F82000000000000019E
+t1396416386
+s414
+
+N/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_BeaconTests.xctest/Info.plist
+t1411647280
+s835
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.o
+t2
+s0
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/Info.plist
+c000000005423F6AB00000000000002E9
+t1411643051
+s745
+
+N/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m
+c000000005423F6AB000000000000036B
+t1411643051
+s875
+
+CBuild AST from /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbe83a7f19cd5b941^a7caa7f19cd5b941^-278"iOS deployment target '8.0' for architecture 'armv7s' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.iOS deployment target '8.0' for architecture 'armv7s' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.2(21%IDEActivityLogMessage2@138"IOS deployment target '8.0' for architecture 'armv7s' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.-433429745#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@138"IOS deployment target '8.0' for architecture 'armv7s' and variant 'normal' is greater than the maximum value '7.1.99' for the iOS 7.1 SDK.-433429745#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"02381FD5-9AA2-4EA7-973B-7D7A705D28EC-
+
+CCompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433429745.656027
+e433429746.470765
+r0
+xCompileC
+xbuild/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.o
+x/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m
+o/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m:35:11: error: no visible @interface for 'iPhone_BeaconTests' declares the selector 'measureBlock:'
+o    [self measureBlock:^{
+o     ~~~~ ^~~~~~~~~~~~
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m227"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.o iPhone_BeaconTests/iPhone_BeaconTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler3a02a8f19cd5b941^848478f29cd5b941^-254"/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m:35:11: error: no visible @interface for 'iPhone_BeaconTests' declares the selector 'measureBlock:'    [self measureBlock:^{     ~~~~ ^~~~~~~~~~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@84"No visible @interface for 'iPhone_BeaconTests' declares the selector 'measureBlock:'-433429746#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@93"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m0000000000000000^34#10#34#10#781#0#18"ARC Semantic Issue2(3@93"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m0000000000000000^34#5#34#9#776#0#3@93"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m0000000000000000^34#10#34#22#781#0#-0#0#1#-19%DVTDocumentLocation4@93"file:///Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m0000000000000000^3785"CompileC build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.o iPhone_BeaconTests/iPhone_BeaconTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luyan/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=8.0 -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/iPhone_BeaconTests-generated-files.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/iPhone_BeaconTests-own-target-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/iPhone_BeaconTests-all-target-headers.hmap -iquote /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/iPhone_BeaconTests-project-headers.hmap -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/DerivedSources/armv7s -I/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/DerivedSources -F/Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos -F/Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode\ 2.app/Contents/Developer/Library/Frameworks -MMD -MT dependencies -MF /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.d --serialize-diagnostics /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.dia -c /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/iPhone_BeaconTests.m -o /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/iPhone_Beacon.build/Debug-iphoneos/iPhone_BeaconTests.build/Objects-normal/armv7s/iPhone_BeaconTests.o36"A7ABE5A1-F05B-43B6-A9A6-F7BEE472E212-
+b1BB98D38-DACD-4FA4-B6B7-41377E5743DA
+
+CGenerateDSYMFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_BeaconTests.xctest.dSYM /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_BeaconTests.xctest/iPhone_BeaconTests
+r0
+
+CLd /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_BeaconTests.xctest/iPhone_BeaconTests normal armv7s
+r0
+
+CProcessInfoPlistFile /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_BeaconTests.xctest/Info.plist /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/iPhone_BeaconTests/Info.plist
+r0
+
+CTouch /Users/luyan/Desktop/iBeaconDemo/iPhone_Beacon/build/Debug-iphoneos/iPhone_BeaconTests.xctest
+r0
+
