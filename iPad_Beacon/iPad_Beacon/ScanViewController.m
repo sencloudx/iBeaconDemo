@@ -119,7 +119,6 @@
     if (bleShield.activePeripheral.state == CBPeripheralStateConnected) {
         [bleShield write:d];
     }
-
 }
 
 - (void)didReceiveMemoryWarning

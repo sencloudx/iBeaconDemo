@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BA2871E-63C2-45BA-B11F-1ACDEE6E6487</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPad_Beacon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D3C059DEF7595D040CCC1F12BD84B6A9F51A8FA</key>
+		<string>https://github.com/sencloudx/iBeaconDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPad_Beacon/iPad_Beacon.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D3C059DEF7595D040CCC1F12BD84B6A9F51A8FA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sencloudx/iBeaconDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D3C059DEF7595D040CCC1F12BD84B6A9F51A8FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D3C059DEF7595D040CCC1F12BD84B6A9F51A8FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iBeaconDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
